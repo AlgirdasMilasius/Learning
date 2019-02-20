@@ -1,0 +1,11 @@
+C:\Users\milaa\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\milaa\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\milaa\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.formAbout.resources
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\milaa\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
